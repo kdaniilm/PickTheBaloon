@@ -1,0 +1,10 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+*.java binary
+*.xml binary
+*.gradle binary
+*.properties binary
+*.bat binary
+
+
